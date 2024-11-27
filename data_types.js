@@ -3,3 +3,4 @@
 // alert(3+3)  this work in browser not in node we are using the node
 
 console.log(3+3)
+let name = "Faizan"
