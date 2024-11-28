@@ -21,7 +21,7 @@ let h = 80;
 let i = 90;
 let j = 100;
 const z = 100;
-z = 200;
+
  j = 110;
  var k=10
  var k = 20
